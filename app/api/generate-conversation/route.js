@@ -3,6 +3,8 @@ import { getCharactersInfo, generateConversation } from '../utils/deepseek';
 import { generateConversation as generateConversationClaude } from '../utils/claude';
 import { generateConversation as generateConversationGemini } from '../utils/gemini';
 
+export const runtime = 'edge'
+
 export async function POST(request) {
   try {
     console.log('Starting conversation generation...');
