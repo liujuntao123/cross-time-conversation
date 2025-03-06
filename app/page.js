@@ -437,7 +437,7 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
                 </svg>
               </button>
-              <div className="flex-1 flex justify-center">
+              <div className="flex-1 flex justify-center ml-[36px]">
                 <h2 className="text-base font-normal max-w-[200px] truncate">
                   { confirmedSelectedCharacters.length > 0 
                     ? confirmedSelectedCharacters.map(char => char.name).join('、')
