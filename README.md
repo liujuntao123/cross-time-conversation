@@ -12,3 +12,5 @@
 - 一键导出为图片，随时分享给好友
 
 
+## 效果预览
+![跨时空对话_2025_3_5 (14)](https://github.com/user-attachments/assets/b685c0f0-c787-42e2-8de5-abc5d6458d46)
